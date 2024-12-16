@@ -1,7 +1,3 @@
-# Open MCT Live Demo
-
-__NOTE__: This demo is available online at https://openmct-demo.herokuapp.com. This guide is intended for those wishing to setup and run the Open MCT demo locally. 
-
 ## Dependencies
 The Open MCT demo depends on [node.js](https://nodejs.org/en/). Life is also easier with [git](https://git-scm.com/downloads), but it's not a requirement for installing and running the demo.
 
